@@ -1,0 +1,21 @@
+# Gradle & Java cache
+.gradle/
+build/
+**/build/
+**/.gradle/
+
+# IDE folders
+.idea/
+.vscode/
+out/
+bin/
+
+# System
+Thumbs.db
+.DS_Store
+
+# Log files
+*.log
+
+# Temporary
+*.tmp
